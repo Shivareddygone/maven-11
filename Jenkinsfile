@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/intelliqittrainings/maven.git'    
+                git 'https://github.com/Shivareddygone/maven-11.git'    
             }
         }
         stage('continuous buit')
